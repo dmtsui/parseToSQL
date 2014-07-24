@@ -1,0 +1,12 @@
+{
+  "name": "logParser",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "es": "^0.4.4",
+    "install": "^0.1.7",
+    "line-by-line": "^0.1.1",
+    "sqlite3": "^2.2.4",
+    "underscore": "^1.6.0"
+  }
+}
